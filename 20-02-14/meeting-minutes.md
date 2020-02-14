@@ -1,8 +1,8 @@
 # 会议记录
 ##### 日期：2020-02-14
 1. 现阶段进展
-- 肖云帆@oGsLP 已初步实现模拟物联网搭建
-- 熊以恒@xiongyiheng 和 李杰@BoneCapsule 完成网站资料阅读
+- [肖云帆](https://github.com/oGsLP)已初步实现模拟物联网搭建
+- [熊以恒](https://github.com/xiongyiheng)和[李杰](https://github.com/BoneCapsule)完成网站资料阅读
 2. 讨论内容
 - 基于导师提供的现有一套物联网系统，通过区块链技术对其进行安全性优化
 - 为该物联网系统提供接口，让其在使用原本的应用时调用这些接口，以此来达到提高安全性的目的
