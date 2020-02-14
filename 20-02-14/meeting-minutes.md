@@ -1,0 +1,18 @@
+# 会议记录
+##### 日期：2020-02-14
+1. 现阶段进展
+- 肖云帆@oGsLP 已初步实现模拟物联网搭建
+- 熊以恒@xiongyiheng 和 李杰@BoneCapsule 完成网站资料阅读
+2. 讨论内容
+- 基于导师提供的现有一套物联网系统，通过区块链技术对其进行安全性优化
+- 为该物联网系统提供接口，让其在使用原本的应用时调用这些接口，以此来达到提高安全性的目的
+- 可通过插件实现
+3. 未来计划
+- 2020-02-14～2020-02-16进行物联网和区块链资料（重点是理论知识）收集并各自整理成md文档
+- 2020-02-16晚19:00开会并汇总各自资料
+4. 1.中所提网站资料
+- [将物联网和区块链结合有着怎样的意义](http://m.elecfans.com/article/887825.html)
+- [区块链技术在物联网领域的八大应用](https://m.jinse.com/news/blockchain/13812.html)
+- [区块链-中文资源](https://github.com/LiuBoyu/blockchain)
+- [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
+- [区块链：从理论走向实践](https://book.8btc.com/books/1/gaosheng_blockchain_report/_book)
