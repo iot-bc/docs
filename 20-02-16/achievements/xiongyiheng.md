@@ -18,6 +18,6 @@ IDEA（International Data Encryption Algorithm）：1991 年由密码学家 Jame
 ## 3.配置超级账本+fabric等可参考blockchain_guide.pdf
 
 ## 4.下一步计划
-- 阅读完blockchain_guide.pdf
-- 阅读完[对应文档](https://hyperledger-fabric-cn.readthedocs.io/zh/release-1.4/)
+- 阅读完[blockchain_guide.pdf](https://github.com/iot-bc/docs/blob/master/_resources/hyperledger-fabric/blockchain_guide.pdf)
+- 阅读完[hyperledger-fabric对应文档](https://hyperledger-fabric-cn.readthedocs.io/zh/release-1.4/)
 - 配置超级账本+fabric（尽量）
