@@ -9,4 +9,4 @@
 * 相关文件资源
   * [BlendMAS- A BLockchain-ENabled Decentralized Microservices Architecture for Smart Public Safety.pdf](https://github.com/iot-bc/docs/blob/master/_resources/02-17/BlendMAS-%20A%20BLockchain-ENabled%20Decentralized%20Microservices%20Architecture%20for%20Smart%20Public%20Safety.pdf)
   * [A survey on mobile edge platform with blockchain.pdf](https://github.com/iot-bc/docs/blob/master/_resources/02-17/A%20survey%20on%20mobile%20edge%20platform%20with%20blockchain.pdf)
-  * [Access Control for Electronic Health Records with Hybrid Blockchain-Edge Architecture.pdf](https://0github.com/iot-bc/docs/blob/master/_resources/02-17/Access%20Control%20for%20Electronic%20Health%20Records%20with%20Hybrid%20Blockchain-Edge%20Architecture.pdf)
+  * [Access Control for Electronic Health Records with Hybrid Blockchain-Edge Architecture.pdf](https://github.com/iot-bc/docs/blob/master/_resources/02-17/Access%20Control%20for%20Electronic%20Health%20Records%20with%20Hybrid%20Blockchain-Edge%20Architecture.pdf)
